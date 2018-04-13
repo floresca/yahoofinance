@@ -1,0 +1,78 @@
+.html{
+    background-color: #EFEFEF;
+}
+
+.header{
+    /*padding: 2px 0;*/
+    border-bottom: solid #EEC20D 4px;
+    background-color: #5B5B5B;
+    display:flex;
+    flex-direction: row;
+    position: relative;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/*.header-logo{*/
+/*    padding: 0;*/
+/*}*/
+
+ul {
+    display: flex;
+    flex-direction: row;
+    bottom: 0px;
+    position: absolute;
+    margin-bottom: 2px
+}
+
+.menu ul a {
+    text-decoration: none;
+    color: #b6b6b6;
+    list-style-type: none;
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+.menu ul a:hover{
+    color: #8f8f8f;
+}
+
+.pantaloons {
+    margin: 20px auto 70px;
+    word-wrap: break-word;
+    padding: 0 48px;
+    max-width: 86rem;
+}
+
+/*All of the following nonsense is page 2*/
+
+.finance{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    
+    
+}
+
+#banner-items{
+    text-decoration: none;
+    color: #b6b6b6;
+    list-style-type: none;
+}
+
+#market-info {
+    margin-right: 20px;
+}
+.finance-chart{
+    
+}
+
+.finance-chart .title {
+    
+}
+
+.finance-chart .chart {
+    
+}
